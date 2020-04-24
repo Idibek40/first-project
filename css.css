@@ -1,0 +1,139 @@
+body{
+background-color:rgb(48, 97, 56) ;
+
+}
+.all{
+    background-color: yellow;
+height: 50px;
+}
+    
+i{
+    color:black;
+    size: 9;
+}
+h1{color:yellow; 
+size: 9;}
+var{
+    color: tomato;
+}
+p{
+    color:yellow;
+    size: 9;
+}
+
+
+
+h2{
+    color:navy;
+}
+
+    
+
+i{
+    color:rgb(25, 0, 255);
+    size:9;
+}
+.round {
+    width:600px;height:600px;
+    border-radius:150%;
+    
+    }
+    /* font{
+        color:yellow;
+    
+    } */
+    .art>div{
+        display: inline;
+    }
+   .art{
+       color: #008000;
+       font-size: 28px;
+       display: inline;
+   }
+   .art>div>a{
+      
+       color: rgb(52, 7, 252);
+       text-decoration: none;    
+   }
+   #divone{
+       background-color: snow;
+       font-size: 50px;
+       color: rgb(248, 9, 1);
+       border: 10px solid rgb(32, 9, 241);
+       width: 250px;
+       height: 50px;
+       padding-left:  30px;
+   }
+   .art>div{
+       border-radius: 20px;
+       background-color: rgb(230, 234, 235);
+      border: 3px solid rgb(10, 14, 236);
+      width: 20vh;
+      height:55px;
+      margin: 5px; 
+      
+      padding: 10px;
+   }
+
+   .list>li{
+       border: 1px solid red;
+       max-width: 250px;
+       margin-bottom: 2px;
+       color:rgb(0, 255, 21);
+   }
+   article{
+       color: rgb(0, 60, 255);
+       font-size: 40px;
+   }
+   
+.poem{
+    font-size: 40px;
+    color: rgb(255, 30, 0);
+    position: absolute;
+    top: 10%;
+    left: 30%;
+}
+.idi{
+    color:rgb(30, 255, 0);
+    font-size: 40px;
+}
+/*.cat{
+  
+    position: absolute;
+    top: 187%;
+    left: 40%;
+}*/
+.may{
+    color:gold;
+    font-size: 30px;
+}
+/*.left{
+    background-color: rgb(190, 202, 77);
+    max-width: 2000px;
+}*/
+.img{
+    border: 5px solid rgb(53, 11, 241);
+    border-radius:10px ;
+    padding: 5px;
+    width: 1100px;
+   
+}
+/*.close{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    /*jhhioijhoihjoih
+    font-size: 20x;
+    font-weight: 300;
+    text-decoration: none;
+    color:white;
+}*/
+.gold{
+    
+    padding-left: 80px;
+    font-size: 30px;
+    color: rgb(242, 247, 247);
+    width: 1500;
+    height: 200px;
+    background: rgb(4, 3, 7);
+}
